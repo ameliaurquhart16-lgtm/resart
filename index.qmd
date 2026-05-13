@@ -1,12 +1,95 @@
----
-title: art
-authors:
-  - name: Norah Jones
-    affiliation: The University
-    roles: writing
-    corresponding: true
-bibliography: references.bib
----
+The Female Reproductive System: Structure, Function, and Physiological Regulation
+Introduction
+The female reproductive system is a complex network of organs responsible for producing gametes, supporting fertilization, and sustaining embryonic and fetal development. Beyond reproduction, it plays essential roles in endocrine regulation, sexual development, and overall homeostasis. Understanding its anatomy and physiology is foundational in the study of human biology and clinical health sciences. This article examines the major structures of the female reproductive system, their physiological functions, and the hormonal mechanisms that regulate reproductive processes. Academic sources, including textbooks and laboratory manuals, are cited to support the information presented.
+Anatomy of the Female Reproductive System
+External Genitalia (Vulva)
+The vulva includes the mons pubis, labia majora, labia minora, clitoris, and vestibule. These structures protect internal organs and contain sensory receptors essential for sexual arousal and protective reflexes (Marieb & Hoehn, 2019).
+Internal Reproductive Organs
+1. Ovaries
+The ovaries are paired glands responsible for producing oocytes and secreting hormones such as estrogen, progesterone, and inhibin. Each ovary contains follicles at various stages of development, from primordial to mature Graafian follicles (OpenStax, 2023).
 
-## Section
-This is a simple placeholder for the manuscript's main document [@knuth84].
+Image: Ovary Structure
+
+2. Uterine (Fallopian) Tubes
+The uterine tubes transport the oocyte from the ovary to the uterus. Fertilization typically occurs in the ampulla region. Ciliated epithelial cells and smooth muscle contractions facilitate movement of the oocyte or zygote (Tortora & Derrickson, 2021).
+
+3. Uterus
+The uterus is a muscular organ composed of three layers:
+
+Perimetrium (outer layer)
+
+Myometrium (smooth muscle responsible for contractions)
+
+Endometrium (inner mucosal lining that thickens and sheds during the menstrual cycle)
+
+The uterus supports implantation, placental development, and fetal growth (Marieb & Hoehn, 2019).
+
+Image: Uterus Anatomy
+
+4. Cervix and Vagina
+The cervix produces mucus that changes consistency across the menstrual cycle, aiding or preventing sperm passage.
+The vagina serves as the copulatory organ, birth canal, and exit pathway for menstrual flow. Its acidic environment protects against pathogens (OpenStax, 2023).
+
+Physiology of the Female Reproductive System
+Oogenesis
+Oogenesis begins before birth, pauses during childhood, and resumes at puberty. Each month, typically one primary oocyte completes meiosis I to form a secondary oocyte, which is ovulated. Meiosis II is completed only if fertilization occurs (Tortora & Derrickson, 2021).
+
+Menstrual Cycle Regulation
+The menstrual cycle averages 28 days and consists of three major phases:
+
+1. Menstrual Phase (Days 1–5)
+Shedding of the functional layer of the endometrium occurs due to declining progesterone and estrogen levels.
+
+2. Proliferative Phase (Days 6–14)
+Estrogen from developing follicles rebuilds the endometrium.
+
+3. Secretory Phase (Days 15–28)
+Progesterone from the corpus luteum prepares the uterus for implantation.
+
+Image: Menstrual Cycle Diagram  
+{"prompt":"diagram of menstrual cycle hormones estrogen progesterone LH FSH endometrium changes educaional"}
+
+Hormonal Regulation
+The hypothalamic–pituitary–ovarian (HPO) axis controls reproductive function:
+
+GnRH from the hypothalamus stimulates the anterior pituitary.
+
+FSH promotes follicle development.
+
+LH triggers ovulation and corpus luteum formation.
+
+Estrogen and progesterone regulate the endometrium and provide feedback to the brain.
+
+This hormonal interplay ensures coordination between ovarian and uterine cycles (Marieb & Hoehn, 2019).
+
+Fertilization and Pregnancy
+Fertilization typically occurs in the ampulla of the uterine tube. The zygote undergoes cleavage and forms a blastocyst, which implants into the endometrium around day 6–7 post‑fertilization.
+Human chorionic gonadotropin (hCG) maintains the corpus luteum during early pregnancy until the placenta takes over hormone production (Tortora & Derrickson, 2021).
+
+Clinical Considerations
+Common Disorders
+Endometriosis – growth of endometrial tissue outside the uterus
+
+Polycystic Ovary Syndrome (PCOS) – hormonal imbalance affecting ovulation
+
+Uterine fibroids – benign tumors of the myometrium
+
+Cervical cancer – often associated with HPV infection
+
+Early detection and routine screenings (e.g., Pap smears) significantly improve outcomes.
+
+Conclusion
+The female reproductive system is a highly coordinated network of organs and hormones that enables reproduction, supports fetal development, and contributes to overall endocrine health. Understanding its anatomy and physiology is essential for recognizing normal function, diagnosing disorders, and promoting reproductive health. Through the integration of structural knowledge and physiological mechanisms, students gain a comprehensive understanding of one of the most intricate systems in the human body.
+
+References
+(Format not required, so standard academic style is used.)
+
+Marieb, E. N., & Hoehn, K. (2019). Human Anatomy & Physiology (11th ed.). Pearson.
+
+OpenStax. (2023). Anatomy and Physiology. OpenStax CNX.
+
+Tortora, G. J., & Derrickson, B. (2021). Principles of Anatomy and Physiology (16th ed.). Wiley.
+
+CCBC Anatomy & Physiology Laboratory Manual (Instructor‑provided, 2026).
+
+National Institutes of Health. (n.d.). Reproductive Health resources.
