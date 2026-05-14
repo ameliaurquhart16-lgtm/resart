@@ -10,39 +10,7 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 <article-meta>
 
 
-<title-group>
-<article-title>art</article-title>
-</title-group>
 
-<contrib-group>
-<contrib contrib-type="author" corresp="yes">
-<name>
-<surname>Jones</surname>
-<given-names>Norah</given-names>
-</name>
-<string-name>Norah Jones</string-name>
-
-<role vocab="https://credit.niso.org" vocab-term="writing – original
-draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
-<xref ref-type="aff" rid="aff-1">a</xref>
-<xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
-</contrib>
-</contrib-group>
-<aff id="aff-1">
-<institution-wrap>
-<institution>The University</institution>
-</institution-wrap>
-
-
-
-
-
-
-
-</aff>
-<author-notes>
-<corresp id="cor-1"></corresp>
-</author-notes>
 
 
 
@@ -64,37 +32,130 @@ draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-
 </front>
 
 <body>
-<sec id="section">
-  <title>Section</title>
-  <p>This is a simple placeholder for the manuscript’s main document
-  (<xref alt="Knuth 1984" rid="ref-knuth84" ref-type="bibr">Knuth
-  1984</xref>).</p>
-</sec>
+<p>The Female Reproductive System: Structure, Function, and
+Physiological Regulation Introduction The female reproductive system is
+a complex network of organs responsible for producing gametes,
+supporting fertilization, and sustaining embryonic and fetal
+development. Beyond reproduction, it plays essential roles in endocrine
+regulation, sexual development, and overall homeostasis. Understanding
+its anatomy and physiology is foundational in the study of human biology
+and clinical health sciences. This article examines the major structures
+of the female reproductive system, their physiological functions, and
+the hormonal mechanisms that regulate reproductive processes. Academic
+sources, including textbooks and laboratory manuals, are cited to
+support the information presented. Anatomy of the Female Reproductive
+System External Genitalia (Vulva) The vulva includes the mons pubis,
+labia majora, labia minora, clitoris, and vestibule. These structures
+protect internal organs and contain sensory receptors essential for
+sexual arousal and protective reflexes (Marieb &amp; Hoehn, 2019).
+Internal Reproductive Organs 1. Ovaries The ovaries are paired glands
+responsible for producing oocytes and secreting hormones such as
+estrogen, progesterone, and inhibin. Each ovary contains follicles at
+various stages of development, from primordial to mature Graafian
+follicles (OpenStax, 2023).</p>
+<p>Image: Ovary Structure</p>
+<list list-type="order">
+  <list-item>
+    <label>2.</label>
+    <p>Uterine (Fallopian) Tubes The uterine tubes transport the oocyte
+    from the ovary to the uterus. Fertilization typically occurs in the
+    ampulla region. Ciliated epithelial cells and smooth muscle
+    contractions facilitate movement of the oocyte or zygote (Tortora
+    &amp; Derrickson, 2021).</p>
+  </list-item>
+  <list-item>
+    <label>3.</label>
+    <p>Uterus The uterus is a muscular organ composed of three
+    layers:</p>
+  </list-item>
+</list>
+<p>Perimetrium (outer layer)</p>
+<p>Myometrium (smooth muscle responsible for contractions)</p>
+<p>Endometrium (inner mucosal lining that thickens and sheds during the
+menstrual cycle)</p>
+<p>The uterus supports implantation, placental development, and fetal
+growth (Marieb &amp; Hoehn, 2019).</p>
+<p>Image: Uterus Anatomy</p>
+<list list-type="order">
+  <list-item>
+    <label>4.</label>
+    <p>Cervix and Vagina The cervix produces mucus that changes
+    consistency across the menstrual cycle, aiding or preventing sperm
+    passage. The vagina serves as the copulatory organ, birth canal, and
+    exit pathway for menstrual flow. Its acidic environment protects
+    against pathogens (OpenStax, 2023).</p>
+  </list-item>
+</list>
+<p>Physiology of the Female Reproductive System Oogenesis Oogenesis
+begins before birth, pauses during childhood, and resumes at puberty.
+Each month, typically one primary oocyte completes meiosis I to form a
+secondary oocyte, which is ovulated. Meiosis II is completed only if
+fertilization occurs (Tortora &amp; Derrickson, 2021).</p>
+<p>Menstrual Cycle Regulation The menstrual cycle averages 28 days and
+consists of three major phases:</p>
+<list list-type="order">
+  <list-item>
+    <p>Menstrual Phase (Days 1–5) Shedding of the functional layer of
+    the endometrium occurs due to declining progesterone and estrogen
+    levels.</p>
+  </list-item>
+  <list-item>
+    <p>Proliferative Phase (Days 6–14) Estrogen from developing
+    follicles rebuilds the endometrium.</p>
+  </list-item>
+  <list-item>
+    <p>Secretory Phase (Days 15–28) Progesterone from the corpus luteum
+    prepares the uterus for implantation.</p>
+  </list-item>
+</list>
+<p>Image: Menstrual Cycle Diagram
+{“prompt”:“diagram of menstrual cycle hormones estrogen progesterone LH
+FSH endometrium changes educaional”}</p>
+<p>Hormonal Regulation The hypothalamic–pituitary–ovarian (HPO) axis
+controls reproductive function:</p>
+<p>GnRH from the hypothalamus stimulates the anterior pituitary.</p>
+<p>FSH promotes follicle development.</p>
+<p>LH triggers ovulation and corpus luteum formation.</p>
+<p>Estrogen and progesterone regulate the endometrium and provide
+feedback to the brain.</p>
+<p>This hormonal interplay ensures coordination between ovarian and
+uterine cycles (Marieb &amp; Hoehn, 2019).</p>
+<p>Fertilization and Pregnancy Fertilization typically occurs in the
+ampulla of the uterine tube. The zygote undergoes cleavage and forms a
+blastocyst, which implants into the endometrium around day 6–7
+post‑fertilization. Human chorionic gonadotropin (hCG) maintains the
+corpus luteum during early pregnancy until the placenta takes over
+hormone production (Tortora &amp; Derrickson, 2021).</p>
+<p>Clinical Considerations Common Disorders Endometriosis – growth of
+endometrial tissue outside the uterus</p>
+<p>Polycystic Ovary Syndrome (PCOS) – hormonal imbalance affecting
+ovulation</p>
+<p>Uterine fibroids – benign tumors of the myometrium</p>
+<p>Cervical cancer – often associated with HPV infection</p>
+<p>Early detection and routine screenings (e.g., Pap smears)
+significantly improve outcomes.</p>
+<p>Conclusion The female reproductive system is a highly coordinated
+network of organs and hormones that enables reproduction, supports fetal
+development, and contributes to overall endocrine health. Understanding
+its anatomy and physiology is essential for recognizing normal function,
+diagnosing disorders, and promoting reproductive health. Through the
+integration of structural knowledge and physiological mechanisms,
+students gain a comprehensive understanding of one of the most intricate
+systems in the human body.</p>
+<p>References (Format not required, so standard academic style is
+used.)</p>
+<p>Marieb, E. N., &amp; Hoehn, K. (2019). Human Anatomy &amp; Physiology
+(11th ed.). Pearson.</p>
+<p>OpenStax. (2023). Anatomy and Physiology. OpenStax CNX.</p>
+<p>Tortora, G. J., &amp; Derrickson, B. (2021). Principles of Anatomy
+and Physiology (16th ed.). Wiley.</p>
+<p>CCBC Anatomy &amp; Physiology Laboratory Manual (Instructor‑provided,
+2026).</p>
+<p>National Institutes of Health. (n.d.). Reproductive Health
+resources.</p>
 </body>
 
 <back>
-<ref-list>
-  <title></title>
-  <ref id="ref-knuth84">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Knuth</surname><given-names>Donald E.</given-names></name>
-      </person-group>
-      <article-title>Literate programming</article-title>
-      <source>Comput. J.</source>
-      <publisher-name>Oxford University Press, Inc.</publisher-name>
-      <publisher-loc>USA</publisher-loc>
-      <year iso-8601-date="1984-05">1984</year><month>05</month>
-      <volume>27</volume>
-      <issue>2</issue>
-      <issn>0010-4620</issn>
-      <uri>https://doi.org/10.1093/comjnl/27.2.97</uri>
-      <pub-id pub-id-type="doi">10.1093/comjnl/27.2.97</pub-id>
-      <fpage>97</fpage>
-      <lpage>111</lpage>
-    </element-citation>
-  </ref>
-</ref-list>
 </back>
 
 
