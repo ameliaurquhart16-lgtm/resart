@@ -46,8 +46,7 @@ Estrogen from developing follicles rebuilds the endometrium.
 3. Secretory Phase (Days 15–28)
 Progesterone from the corpus luteum prepares the uterus for implantation.
 
-Image: Menstrual Cycle Diagram  
-{"prompt":"diagram of menstrual cycle hormones estrogen progesterone LH FSH endometrium changes educaional"}
+
 
 Hormonal Regulation
 The hypothalamic–pituitary–ovarian (HPO) axis controls reproductive function:
@@ -82,7 +81,7 @@ Conclusion
 The female reproductive system is a highly coordinated network of organs and hormones that enables reproduction, supports fetal development, and contributes to overall endocrine health. Understanding its anatomy and physiology is essential for recognizing normal function, diagnosing disorders, and promoting reproductive health. Through the integration of structural knowledge and physiological mechanisms, students gain a comprehensive understanding of one of the most intricate systems in the human body.
 
 References
-(Format not required, so standard academic style is used.)
+
 
 Marieb, E. N., & Hoehn, K. (2019). Human Anatomy & Physiology (11th ed.). Pearson.
 
